@@ -1,0 +1,8 @@
+C:\GetMediaDuration\src\GetMediaDuration\bin\Debug\GetMediaDuration.dll
+C:\GetMediaDuration\src\GetMediaDuration\bin\Debug\GetMediaDuration.pdb
+C:\GetMediaDuration\src\GetMediaDuration\bin\Debug\MediaInfoNET.dll
+C:\GetMediaDuration\src\GetMediaDuration\obj\Debug\GetMediaDuration.csprojResolveAssemblyReference.cache
+C:\GetMediaDuration\src\GetMediaDuration\obj\Debug\Interop.Shell32.dll
+C:\GetMediaDuration\src\GetMediaDuration\obj\Debug\GetMediaDuration.csproj.ResolveComReference.cache
+C:\GetMediaDuration\src\GetMediaDuration\obj\Debug\GetMediaDuration.dll
+C:\GetMediaDuration\src\GetMediaDuration\obj\Debug\GetMediaDuration.pdb
